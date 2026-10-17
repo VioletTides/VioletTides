@@ -8,7 +8,7 @@ I write C++ close to the hardware, C# and Rust on self-hosted services, and Type
 
 - **[KnockThru](https://github.com/VioletTides/KnockThru)** (C++, OpenVR): knock twice on a Steam Frame headset to turn passthrough on. It ships tagged releases, CI, and a test suite. Its main thread uses 1.1% of one CPU core.
 - **[study-timer](https://github.com/VioletTides/study-timer)** (Vue 3): a focus timer styled like a retro CRT and cassette deck.
-- **[PCB-Business-Card](https://github.com/VioletTides/PCB-Business-Card)** (KiCad, Python): a business card built as a printed circuit board.
+- **[PCB-Business-Card](https://github.com/VioletTides/PCB-Business-Card)** (KiCad): a business card built as a printed circuit board, with an NFC tag a phone reads with a tap.
 - **[Deltahacks9](https://github.com/VioletTides/Deltahacks9)** (React, Firebase, Leaflet): inventory tracking and route planning for food banks, built at DeltaHacks 9.
 
 ## Open source
