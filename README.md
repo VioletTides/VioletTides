@@ -1,6 +1,6 @@
 # Robin Anderson
 
-Computer Engineering at McMaster University. I'm looking for software engineering roles.
+Computer Engineering at McMaster University.
 
 I write C++ close to the hardware, C# and Rust on self-hosted services, and TypeScript and Vue on the web.
 
