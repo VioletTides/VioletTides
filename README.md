@@ -1,8 +1,10 @@
-# Robin Anderson
+# Hi, I'm Robin Anderson
 
-Computer Engineering at McMaster University.
+I'm a Computer Engineering student at McMaster University, graduating in April 2027. I like projects that sit where hardware meets software. I write C++ close to the hardware, C# and Rust on self-hosted services, and JavaScript and Vue on the web.
 
-I write C++ close to the hardware, C# and Rust on self-hosted services, and TypeScript and Vue on the web.
+I'm also President of McMaster Rocketry. Our team's payloads won the Launch Canada Payload Challenge in 2025 and 2026.
+
+Right now I'm building an autonomous electric vehicle charging robot on an XYZ gantry for my capstone project.
 
 ## Projects
 
@@ -21,6 +23,6 @@ Merged pull requests to [winters27/octo](https://github.com/winters27/octo), a s
 - [#38](https://github.com/winters27/octo/pull/38) Normalize Lidarr-imported tracks into the Artist/Album layout
 - [#32](https://github.com/winters27/octo/pull/32) Add `ENABLE_SEARCH_DISCOVERY` to make search fan-out optional
 
-## Contact
+## Say hi
 
-[LinkedIn](https://www.linkedin.com/in/robin34anderson/)
+I'm always happy to talk about embedded systems, self-hosting, or rockets. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/robin34anderson/).
